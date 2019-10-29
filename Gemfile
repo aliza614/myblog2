@@ -8,10 +8,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+# changed from 3.8.6 per https://pages.github.com/versions/
+gem "jekyll", "~> 3.8.5"
 
-#ADDED
-gem "github-pages", "~> 3.8.5", group: :jekyll_plugins
+#ADDED per https://pages.github.com/versions/ and https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+gem "github-pages", "~> 202", group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
