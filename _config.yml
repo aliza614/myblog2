@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 #theme: jekyll-theme-cayman
 
-remote_theme: thelehhman/texture
+#remote_theme: thelehhman/texture
 texture:
   title: Contact Mapping
   tagline: Humanizing your address book
