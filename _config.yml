@@ -35,8 +35,8 @@ texture:
   style: black #[yellow|red|black|blue|green|purple]
 
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
