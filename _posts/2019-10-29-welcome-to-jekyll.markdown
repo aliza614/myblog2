@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-10-29 08:43:16 -0600
+title:  "About Notes"
+date:   2019-09-26 14:00:00
 categories: jekyll update
+#permalink: "https://aliza614.github.io/myblog2"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Notes
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+“What You Love the Most About Me Is How Much I Remember About You.”
 
-Jekyll also offers powerful support for code snippets:
+Remembering more of what colleagues, friends, and acquaintances share with you is about to become your secret weapon. Contact Mapping makes it as simple as pulling your phone out of your pocket.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Contact Mapping is built on top of your most valuable (and abused!) asset -- your address book. Whether it’s the first conversation or the five hundredth, you should map it with a Note. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+After each interaction, simply create a Note for that contact and start talking (or typing, if that’s more your speed). You can use Notes any way you like. Remember names of significant others and children. Jot down a few details about that big meeting they are worried about. Refer back to their hometown, their hobbies, that dream vacation. 
+note-mock.png
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Each one of those details becomes a touchpoint for future conversation, and a point for cross reference as you become a Superconnector within your sphere of influence.
+
+As Zig Ziglar famously put it, “You can have everything in life you want if you will just help enough other people get what they want.” The more touchpoints you have on a contact, the better your ability to serve them and others! 
+
