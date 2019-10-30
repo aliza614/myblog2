@@ -29,15 +29,19 @@ markdown: kramdown
 remote_theme: thelehhman/texture
 
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Tech @ Contact Mapping
+  tagline: Humanizing your address book
   date_format: "%b %-d, %Y"
-  #title: Contact Mapping
-  #tagline: Humanizing your address book
-  #date_format: "%b %-d, %Y"
-texture:
   style: black #[yellow|red|black|blue|green|purple]
+  showNav: false
+  showPicker: false
 
+  # generate social links in footer
+  social_links:
+    twitter: contactmapping
+    github:  contactmapping
+    linkedIn: company/contactmapping
+    rss: rss
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #plugins:
 #  - jekyll-feed
