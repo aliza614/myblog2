@@ -27,10 +27,14 @@ markdown: kramdown
 #theme: jekyll-theme-cayman
 
 remote_theme: thelehhman/texture
+
 texture:
-  title: Contact Mapping
-  tagline: Humanizing your address book
+  title: Adam Denisov
+  tagline: Developer. Designer
   date_format: "%b %-d, %Y"
+  #title: Contact Mapping
+  #tagline: Humanizing your address book
+  #date_format: "%b %-d, %Y"
 texture:
   style: black #[yellow|red|black|blue|green|purple]
 
