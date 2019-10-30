@@ -17,7 +17,7 @@ title: Contact Mapping
 email: hello@contactmapping.com
 description: >- # this means to ignore newlines until "baseurl:"
   Contact Mapping is an app that will enable you to humanize your address book.  You will be able to match the human you want to keep in touch with with the contact in your address book.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/myblog2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
