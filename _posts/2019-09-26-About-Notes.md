@@ -3,7 +3,7 @@ layout: post
 title:  "About Notes"
 date:   2019-09-26 14:00:00
 categories: jekyll update
-permalink: "https://aliza614.github.io/myblog2/"
+permalink: "https://aliza614.github.io/myblog2"
 ---
 Notes
 
